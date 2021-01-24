@@ -16,6 +16,7 @@
 current_result = float(input('Введите текущий результат: '))
 dream_result = float(input('Введите желаемый результат: '))
 day = 1
+test = 'test'
 
 while current_result <= dream_result:
     print(f"{day}-й день: {current_result}")
