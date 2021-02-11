@@ -1,0 +1,4 @@
+testov 100000
+kurmanov 150000
+Аноним 5000
+proger 500000
